@@ -1,0 +1,9 @@
+/vendor
+/output
+/tests/phpunit_report
+/build
+/uploads
+/tests
+.coveralls.yml
+phpunit.xml
+.travis.yml
